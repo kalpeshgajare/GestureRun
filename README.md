@@ -36,4 +36,4 @@ pip install -r requirements.txt
 - [Pynput](https://pypi.org/project/pynput/)
   
 ## License
-[License](license)
+[License](LICENSE)
